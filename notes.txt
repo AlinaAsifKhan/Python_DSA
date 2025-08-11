@@ -1,0 +1,11 @@
+Finish Python file handling assignment.
+Remember to bring calculator for math class.
+Meeting with study group at 3 PM.
+Buy a new notebook for programming lectures.
+Practice loops and conditionals before quiz.
+Check library for database systems reference book.
+Submit COAL project proposal before deadline.
+Review sorting algorithms for DSA class.
+Print out the MVC class slides for revision.
+Plan weekend group study schedule.
+ Completed learning file handling in py
